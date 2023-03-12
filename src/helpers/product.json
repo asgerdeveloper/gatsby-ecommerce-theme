@@ -24,7 +24,7 @@
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 175,
         "alt": "classic t-shirt 1",
         "image": "/products/shirt1.jpg",
         "tags": ["shirt", "men"]
